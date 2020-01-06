@@ -1,0 +1,30 @@
+﻿生成启动时间为 2019/12/27 16:24:17。
+     1>项目“D:\cpp\POSIX\POSIX_STD\POSIX_STD\POSIX_STD.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Iinclude /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\POSIX_STD.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Iinclude /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\POSIX_STD.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt json_reader.cpp json_value.cpp json_writer.cpp POSIX_MYSQL.cpp POSIX_STD.cpp RrConfig.cpp STD.cpp
+         json_reader.cpp
+         json_value.cpp
+         json_writer.cpp
+         POSIX_MYSQL.cpp
+         POSIX_STD.cpp
+         RrConfig.cpp
+         STD.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\cpp\POSIX\POSIX_STD\Release\POSIX_STD.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\cpp\POSIX\POSIX_STD\Release\POSIX_STD.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\cpp\POSIX\POSIX_STD\Release\POSIX_STD.lib" /MACHINE:X86 /SAFESEH Release\json_reader.obj
+         Release\json_value.obj
+         Release\json_writer.obj
+         Release\POSIX_MYSQL.obj
+         Release\POSIX_STD.obj
+         Release\RrConfig.obj
+         Release\STD.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         POSIX_STD.vcxproj -> D:\cpp\POSIX\POSIX_STD\Release\POSIX_STD.exe
+     1>已完成生成项目“D:\cpp\POSIX\POSIX_STD\POSIX_STD\POSIX_STD.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.37

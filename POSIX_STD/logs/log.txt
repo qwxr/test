@@ -1,0 +1,108 @@
+[2019-12-27 16:03:09.676] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:11.679] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:13.684] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:15.689] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:17.694] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:19.697] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:21.703] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:23.707] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:25.712] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:27.717] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:29.720] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:31.724] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:33.729] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:35.733] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:37.737] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:39.743] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:41.746] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:52.800] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:54.804] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:56.807] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:03:57.818] [log] [info] 接收到32000端口107字节长的数据数据
+[2019-12-27 16:03:57.818] [log] [info] socket方式接收到指令的时间
+[2019-12-27 16:03:57.818] [log] [info] 保存指令到消息队列
+[2019-12-27 16:03:57.819] [log] [info] 从消息队列中读取到一条指令
+[2019-12-27 16:03:57.819] [log] [info] 开始解析指令
+[2019-12-27 16:03:59.821] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:01.824] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:03.827] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:05.831] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:07.836] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:09.838] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:11.842] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:13.846] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:15.849] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:17.853] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:19.856] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:21.859] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:23.863] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:25.867] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:27.871] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:29.876] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:31.880] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:33.885] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:35.890] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:37.894] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:39.898] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:41.903] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:04:43.908] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:07:46.005] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:07:48.011] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:07:50.016] [log] [info] 等待从32000端口接收到数据
+[2019-12-27 16:10:51.676] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:10:53.682] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:10:55.686] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:10:57.690] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:10:59.695] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:11:00.752] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:109 接收到32000端口107字节长的数据数据
+[2019-12-27 16:11:00.752] [log] [info] socket方式接收到指令的时间
+[2019-12-27 16:11:00.753] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:120 目前有0条消息待处理
+[2019-12-27 16:11:00.753] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:135 保存指令到消息队列
+[2019-12-27 16:11:00.754] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:180 从消息队列中读取到一条指令
+[2019-12-27 16:11:00.754] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:190 开始解析指令
+[2019-12-27 16:11:02.755] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:11:04.759] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:11:06.764] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:11:08.768] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:11:10.772] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:11:12.779] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:11:14.784] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:11:16.787] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:11:18.792] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:11:20.796] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:11:22.800] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:11:24.805] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:11:26.809] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:11:28.814] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:11:30.818] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:11:32.822] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:11:34.826] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:12:01.557] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:12:02.360] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:109 接收到32000端口107字节长的数据数据
+[2019-12-27 16:12:02.360] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:115 socket方式接收到指令的时间
+[2019-12-27 16:12:02.361] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:120 目前有0条消息待处理
+[2019-12-27 16:12:02.361] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:135 保存指令到消息队列
+[2019-12-27 16:12:02.362] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:180 从消息队列中读取到一条指令
+[2019-12-27 16:12:02.362] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:190 开始解析指令
+[2019-12-27 16:12:04.364] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:12:06.367] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:12:08.372] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:12:10.377] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:12:12.381] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:12:14.385] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:12:16.390] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:12:18.392] [log] [info] d:\cpp\posix\posix_std\posix_std\posix_std.cpp:103 等待从32000端口接收到数据
+[2019-12-27 16:24:36.821] [log] [info] POSIX_STD.cpp:104 接收到32000端口107字节长的数据数据
+[2019-12-27 16:24:36.821] [log] [info] POSIX_STD.cpp:110 socket方式接收到指令的时间
+[2019-12-27 16:24:36.822] [log] [info] POSIX_STD.cpp:115 目前有0条消息待处理
+[2019-12-27 16:24:36.822] [log] [info] POSIX_STD.cpp:127 保存指令到消息队列
+[2019-12-27 16:24:36.823] [log] [info] POSIX_STD.cpp:173 从消息队列中读取到一条指令
+[2019-12-27 16:24:36.823] [log] [info] POSIX_STD.cpp:183 开始解析指令
+[2019-12-27 16:24:36.828] [log] [info] STD.cpp:9 STD::test
+[2019-12-27 16:25:10.622] [log] [info] POSIX_STD.cpp:104 接收到32000端口107字节长的数据数据
+[2019-12-27 16:25:10.622] [log] [info] POSIX_STD.cpp:110 socket方式接收到指令的时间
+[2019-12-27 16:25:10.623] [log] [info] POSIX_STD.cpp:115 目前有0条消息待处理
+[2019-12-27 16:25:10.623] [log] [info] POSIX_STD.cpp:127 保存指令到消息队列
+[2019-12-27 16:25:10.625] [log] [info] POSIX_STD.cpp:173 从消息队列中读取到一条指令
+[2019-12-27 16:25:10.625] [log] [info] POSIX_STD.cpp:183 开始解析指令
+[2019-12-27 16:25:10.630] [log] [info] STD.cpp:9 STD::test

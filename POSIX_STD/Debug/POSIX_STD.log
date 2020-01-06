@@ -1,0 +1,19 @@
+﻿生成启动时间为 2019/12/27 16:11:56。
+     1>项目“D:\cpp\POSIX\POSIX_STD\POSIX_STD\POSIX_STD.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Iinclude /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\POSIX_STD.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt POSIX_STD.cpp
+         POSIX_STD.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\cpp\POSIX\POSIX_STD\Debug\POSIX_STD.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\cpp\POSIX\POSIX_STD\Debug\POSIX_STD.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\cpp\POSIX\POSIX_STD\Debug\POSIX_STD.lib" /MACHINE:X86 Debug\json_reader.obj
+         Debug\json_value.obj
+         Debug\json_writer.obj
+         Debug\POSIX_MYSQL.obj
+         Debug\POSIX_STD.obj
+         Debug\RrConfig.obj
+         Debug\stdafx.obj
+         POSIX_STD.vcxproj -> D:\cpp\POSIX\POSIX_STD\Debug\POSIX_STD.exe
+     1>已完成生成项目“D:\cpp\POSIX\POSIX_STD\POSIX_STD\POSIX_STD.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.54
